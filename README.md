@@ -12,7 +12,7 @@ NoteKeeper is a dynamic web application designed and developed using JavaScript 
 
 - **Responsive Design**: The app is designed to be responsive, ensuring a seamless experience across a variety of devices, including desktops, tablets, and smartphones.
 
-## Installation and 
+## Installation 
 
 
 1. **Clone the repository and navigate to the project directory:**
