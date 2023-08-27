@@ -16,14 +16,11 @@ NoteKeeper is a dynamic web application designed and developed using JavaScript 
 
 
 1. **Clone the repository and navigate to the project directory:**
-   $ git clone https://github.com/mohitrana0311/Note_keeper
+   $ git clone https://github.com/p-chaudhary/Notekeeper
 3. **Install the required dependencies :**
    $ npm install
 4. **Start by running:** 
    $ npm start
 
-## Video
-_
-[![Video Thumbnail](https://res.cloudinary.com/dzjjgan1n/image/upload/v1693033483/Screenshot_316_okm3vu.png)](https://res.cloudinary.com/dzjjgan1n/video/upload/v1693033503/keeper_wqwwta.mp4)
 
 
